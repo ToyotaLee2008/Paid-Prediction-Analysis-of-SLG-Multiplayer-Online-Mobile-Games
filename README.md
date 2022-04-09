@@ -7,4 +7,4 @@ This project is a paid prediction for user behavior data of the SLG mobile game 
 - Prediction Type: Regression
 - Algorithms involved: linear regression, logistic regression, random forest, GBDT
 
-Reminder: Because the data come from China company, there are some Chinese in our project which cannot translate to English directly.
+Reminder: Because the data come from China company, there are some Chinese in our project which cannot translate to English directly. The original data(800+mb) is too big to upload
